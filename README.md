@@ -44,4 +44,3 @@ fibonacci(10)
 * [ ] Solve 50+ logic-based coding problems.
 
 ---
-*Created and maintained directly from my mobile device!* 📱
