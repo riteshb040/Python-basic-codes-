@@ -38,7 +38,7 @@ def fibonacci(n):
 fibonacci(10)
 ```
 
-## 📈 Future Goals
+##  Future Goals
 * [ ] Master Python data structures (Lists, Dicts, Tuples).
 * [ ] Learn Object-Oriented Programming (OOP) principles.
 * [ ] Solve 50+ logic-based coding problems.
