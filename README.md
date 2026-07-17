@@ -7,7 +7,7 @@ Welcome to my Python practice repository! This is a dedicated space where I writ
 * Practice problem-solving and logic building.
 * Build a consistent green coding streak on GitHub.
 
-## 🛠️ Code Snippets & Practice Examples
+##  Code Snippets & Practice Examples
 
 ### 1. Classic Hello World
 ```python
