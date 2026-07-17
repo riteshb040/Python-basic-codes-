@@ -2,7 +2,7 @@
 
 Welcome to my Python practice repository! This is a dedicated space where I write, test, and store my Python code snippets, algorithms, and daily coding challenges.
 
-## 🚀 Purpose
+##  Purpose
 * Learn core Python programming concepts.
 * Practice problem-solving and logic building.
 * Build a consistent green coding streak on GitHub.
